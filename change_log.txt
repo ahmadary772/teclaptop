@@ -1,0 +1,181 @@
+Netlify Theme V2.8 – Fixes – 21 May 2022.
+
+FIXED
+
+At Glance Show/Hide Fixed
+At Glance List Mobile Responsive
+Contact Form Mobile Responsive
+Some Logo & Page Fixes
+Affiliate Disclosure Sitewide
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Netlify Theme V2.7 – New Features – 24 Apr 2022.
+
+NEW
+
+Added Option to Add Group Navigation
+(Settings > Other Settings > Homepage Setting > Header Style)
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Netlify Theme V2.6 – Fixes & New Features – 6 Apr 2022.
+
+NEW
+
+Added Option to Use Old/New Navigation (Group Nav on the way)
+CTA Buttons Colors Revamp
+Affiliate Post Error Fixes
+
+FIXES
+
+Netlify Identity Widget on Login Page Fix
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V2.2 – Fixes & New Features – 13 Fed 2022.
+
+NEW
+
+Shifted to Old Navigation
+Added Post Option for Comments On/Off
+
+FIXES
+
+Glance heading Fix
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V2.1 – Fixes & New Features – 30 Jan 2022.
+
+NEW
+
+At Glance Heading Option
+Homepage Sections Descriptions
+Content Option at the End of Homepage
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V2.0 – Fixes & New Features – 30 Jan 2022.
+
+NEW
+
+Amazon Link Auto nofollow on Affiliate Articles (Javascript Solution)
+At Glance Section After Buying Guide
+Award Doesn't show if you don't add. (if you don't add the first 1 then it will not show otherwise error occurs)
+
+
+FIXES
+
+Article & Blogpost Schema Fix on Affiliate Articles
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V1.8 – Fixes – 27 Dec 2021.
+
+FIXES
+
+Deploy issues on git other than github
+Navigation Menu Wrap on More Items
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V1.7 – Fixes & New Features – 27 Dec 2021.
+
+NEW
+
+Whole New Menu Design
+Affiliate Link Tracking for Table, Review Button & Products
+Review Base Sidebar Widget
+Auto External Links Open in New Tab
+Auto Amazon Links nofollow, sponsored
+
+FIXES
+
+Review Base Slider Fix
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Netlify Theme V1.6 – Fixes & New Features – 20 Dec 2021.
+
+NEW
+
+Integrated Menus in CMS
+
+FIXES
+
+Knowledge Base Formatting Error Fix
+Confusing Titles of Sections Fixed
+Responsive Navigation Menu Fixed
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Netlify Theme V1.5 – Fixes & New Features – 8 Dec 2021.
+
+NEW
+
+Back to Top Button
+Added New Block to Insert Content After Products
+More Buttons as per Google Multiple Marchant Update
+
+FIXES
+
+Slider Image Too-Big Fix
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SalesMag Version 1.4 (Fixes & Improvements) – 28 November 2021
+
+
+Fixed: Header & Fotter Text Fix
+Fixed: Font Fix if No Value
+
+New: Unlimited Image & Scroll Sections
+New: No Index Robots Toggle for All Posts Types
+New: Disable Knowledge Base Section on Homepage Toggle
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SalesMag Version 1.3 (Major Fixes & New Features) – 21 November 2021
+
+
+Fixed: 404 Page Design
+Fixed: FAQ Section in Review Base
+Fixed: Head Description Tags
+Fixed: Author Box Double Slashes Fix
+Fixed: Table of Content Names
+
+New: Can Insert HTML in Articles
+New: Google Font Integration for Body & Headings
+New: Custom CSS Integration
+New: Custom HTML Integration after Head Tag
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SalesMag Version 1.2 (New Features) – 14 November 2021
+
+Fixed: Knowledge Base FAQ Section Not Showing
+
+New: All New Product Review Support
+New: Top 3 Recommendations for Affiliate Articles
+New: 404 Page Design
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SalesMag Version 1.1 (Major Fixes) – 11 November 2021
+
+Fixed: knowledge-base article publishing
+Fixed: pages publishing
+Fixed: featured image toggle
+
+New: Custom HTML Shortcode
+New: Contact Form Shortcode
+

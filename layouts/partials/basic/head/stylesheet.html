@@ -1,0 +1,42 @@
+<!-- Stylesheets -->
+{{- $globalStyle := resources.Get "css/global.css" | minify -}}
+{{- $max900 := resources.Get "css/max-900px.css" | minify -}}
+{{- $min700 := resources.Get "css/min-700px.css" | minify -}}
+{{- $min900 := resources.Get "css/min-900px.css" | minify -}}
+{{- $min1000 := resources.Get "css/min-1000px.css" | minify -}}
+{{- $fontawesome := resources.Get "css/font-awesome.css" | minify -}}
+{{- $newfeatures := resources.Get "css/v1.2.css" | minify -}}
+{{- $newMenu := resources.Get "css/menu.css" | minify -}}
+{{- $groupMenu := resources.Get "css/group-nav.css" | minify -}}
+{{- $allStyles := slice $globalStyle $max900 $min700 $min900 $min1000 $newfeatures $newMenu $groupMenu -}}
+{{- $mainStyle := $allStyles | resources.Concat "css/main.css" }}
+
+<style>
+:root {
+    --mainColor: {{site.Params.colors.mainColor | default "black"}};
+    --textColor: {{site.Params.colors.textColor | default "white"}};
+    --linkColor: {{site.Params.colors.linkColor | default "blue"}};
+    --ctaColorBG: {{site.Params.colors.ctaColorBG | default "grey"}};
+    --ctaColorText: {{site.Params.colors.ctaColorText | default "orange"}};
+    --fontBody: {{ with site.Params.fonts.bodyFont }} '{{ . }}';{{ else }} sans-serif; {{ end }}
+    --fontHeading: {{ with site.Params.fonts.heading }} '{{ . }}';{{ else }} sans-serif; {{ end }}
+}
+{{ if (fileExists "layouts/partials/basic/head/custom-css.html") -}}
+    {{- partial "basic/head/custom-css" . | safeHTML | safeCSS -}}
+{{ end }}
+</style>
+{{- $fontbody := replace site.Params.fonts.bodyFont " " "+" }}
+{{- $fontheading := replace site.Params.fonts.heading " " "+"}}
+{{- $href := "//fonts.googleapis.com/css?family=" }}
+<link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
+{{- with $fontbody }}
+<link href='{{$href}}{{$fontbody}}' rel='stylesheet' type='text/css'>
+{{- end }}
+{{- with $fontheading }}
+<link href='{{$href}}{{$fontheading}}' rel='stylesheet' type='text/css'>
+{{- end }}
+{{- if .Params.productImages }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->
+{{- end }}
+<script nonce async src="https://kit.fontawesome.com/e1c451d9d8.js" crossorigin="anonymous" type="text/javascript"></script>

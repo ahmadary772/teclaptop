@@ -1,0 +1,139 @@
+{{ if .Params.the_products }}
+<style>
+    /*Table Responsive */
+
+.product-table {
+    border: 1px solid #ccc !important;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: auto;
+}
+.product-table .btn-table{
+    width: auto;
+    padding: .5rem .8rem;
+}
+.product-table .btn-review{
+    width: auto;
+    padding: .5rem 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.product-table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd !important;
+    padding: .35em !important;
+}
+
+.product-table th,
+.product-table td {
+    padding: .625em !important;
+    text-align: center !important;
+    font-weight: bolder;
+    border: 0 !important;
+}
+
+.product-table td a {
+    color: #000;
+}
+.product-table td a.btn{
+    color: var(--ctaColorText);
+}
+
+.product-table img {
+    width: 110px;
+    height: auto;
+}
+
+.product-table th {
+    font-size: .7em !important;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+.product-table td{
+    font-size: .8em !important;
+}
+
+@media screen and (max-width: 600px) {
+    .product-table {
+        border: 0;
+    }
+    .product-table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+    }
+    .product-table tr {
+        border-bottom: 3px solid #ddd !important;
+        display: block;
+        margin-bottom: .625em;
+    }
+    .product-table img {
+        width: 150px;
+        height: auto;
+        margin-left: auto;
+    }
+    .product-table td {
+        border-bottom: 1px solid #ddd !important;
+        display: block;
+        font-size: .8em !important;
+        text-align: right !important;
+    }
+    .product-table td::before,
+    .product-table td div::before {
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .product-table td:last-child {
+        border-bottom: 0;
+    }
+}
+
+
+/* Table Responsize End */
+</style>
+
+{{ if .Params.product_Summary }}
+<h2 class="top-picks" id="product-summary"><strong>{{.Params.product_Summary}}</strong></h2>
+{{ else }}
+<h2 class="top-picks" id="product-summary"><strong>{{ .Title }} Summary</strong></h2>
+{{ end }}
+<table class="product-table">
+<thead>
+<tr style="background-color:#000;color:#fff">
+{{range first 1 .Params.the_products }}
+{{ with .award }}
+  <th scope="col">Award</th>
+  {{ end }}
+{{ end }}
+  <th scope="col">Image</th>
+  <th scope="col">Model</th>
+  <th scope="col">Price</th>
+</tr>
+</thead>
+<tbody>
+    {{ range .Params.the_products }}
+        <tr>
+            {{ with .award }}<td data-label="Award">{{ . }}</td>{{ end }}
+            <td data-label="Image">
+            <img width="110" height="110" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
+            </td>
+            <td data-label="Brand">{{ .nameForTOC }}</div></td>
+            <td data-label="Price">
+                {{ $amzlong := or (findRE "amazon" .amzlink) (findRE "amzn" .amzlink) }}
+                <a class="btn btn-table" href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.table}}{{end}}" target="_blank" rel="nofollow sponsored noopener noreferrer">See On Amazon</a>
+            </td>
+        </tr>
+    {{ end }}
+    </tbody>
+</table>
+{{ end }}
