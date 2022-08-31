@@ -1,6 +1,6 @@
 languageCode = "en-us"
 DisqusShortname = ""
-baseURL = "https://techlaptop.xyz"
+baseURL = "https://teclaptop.netlify.app/"
 googleAnalytics = ""
 title = "techlaptop"
 paginate = "14"
