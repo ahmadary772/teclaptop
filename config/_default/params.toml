@@ -29,10 +29,6 @@ sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
 [[scroll_section]]
-scrollcat = "Education"
-
-[[scroll_section]]
-scrollcat = "Lifestyle"
 
 [[img_section]]
 imgcat = "Tech"
