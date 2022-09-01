@@ -3,7 +3,7 @@ title: The Best Way to Post a Product List
 type: posts
 draft: false
 trending: true
-trendname: Affiliate Post
+trendname: Affiliate Post1
 seo_title: Amazon Affiliate Website Post Design
 meta_Description: This is a demo of the affiliate post design on this theme. The
   post itself has been removed to allow for proper viewing of the theme.
