@@ -6,8 +6,8 @@ url = "#"
 [[main]]
 weight = 3
 name = "Motherboards"
-url = "/Motherboards/"
-parent = "Motherboards"
+url = "/motherboards/"
+parent = ""
 
 [[main]]
 weight = 1
