@@ -1,5 +1,5 @@
 ---
-title: Best Motherboard Z590 In 2022
+title: Best Motherboard Z590 in 2022
 type: posts
 draft: true
 trending: false
