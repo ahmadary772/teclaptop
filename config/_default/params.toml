@@ -29,10 +29,10 @@ sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
 [[scroll_section]]
-scrollcat = "Motherboards"
+scrollcat = ""
 
 [[img_section]]
-imgcat = "Motherboards"
+imgcat = ""
 
 [[img_section]]
 imgcat = "Motherboards"
