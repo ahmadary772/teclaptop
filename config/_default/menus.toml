@@ -7,6 +7,7 @@ url = "/Motherboards/"
 weight = 1
 name = "Motherboards"
 url = "Best Picks"
+parent = "Motherboards"
 
 [[main]]
 weight = 1
