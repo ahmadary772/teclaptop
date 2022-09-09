@@ -1,10 +1,10 @@
 [[main]]
 weight = 1
 name = "Home"
-url = "/Motherboards/"
+url = "#"
 
 [[main]]
-weight = 1
+weight = 3
 name = "Motherboards"
 url = "/Motherboards/"
 parent = "Motherboards"
