@@ -5,8 +5,8 @@ url = "/Motherboards/"
 
 [[main]]
 weight = 1
-name = "Layouts"
-url = "#"
+name = "Motherboards"
+url = "Best Picks"
 
 [[main]]
 weight = 1
