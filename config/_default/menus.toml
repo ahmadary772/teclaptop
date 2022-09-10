@@ -5,6 +5,11 @@ url = "#"
 
 [[main]]
 weight = 1
+name = "Knowledge Base"
+url = "/Knowledge Base/"
+
+[[main]]
+weight = 1
 name = "Laptops "
 url = "/Laptops/"
 parent = "Best Pic"
@@ -20,11 +25,6 @@ weight = 3
 name = "Ram"
 url = "/Ram/"
 parent = "Best Pic"
-
-[[main]]
-weight = 1
-name = "Knowledge Base"
-url = "/Knowledge Base/"
 
 [[footer]]
 weight = 1
