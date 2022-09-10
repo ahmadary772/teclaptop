@@ -4,7 +4,7 @@ name = "Home"
 url = "#"
 
 [[main]]
-weight = 1
+weight = 4
 name = "Knowledge Base"
 url = "/Knowledge Base/"
 
