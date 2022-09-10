@@ -4,9 +4,15 @@ name = "Home"
 url = "#"
 
 [[main]]
-weight = 2
+weight = 1
 name = "Laptops "
 url = "/Laptops/"
+parent = "Best Pic"
+
+[[main]]
+weight = 2
+name = "Motherboards"
+url = "/Motherboards/"
 parent = "Best Pic"
 
 [[footer]]
