@@ -24,7 +24,7 @@ parent = "Layouts"
 [[main]]
 weight = 1
 name = "Best Picks"
-url = "/Best Picks/"
+url = "/Best-Picks/"
 parent = "Best Picks"
 
 [[main]]
