@@ -1,10 +1,4 @@
 [[main]]
-weight = 3
-name = "Motherboards"
-url = "/motherboards/"
-parent = ""
-
-[[main]]
 weight = 1
 name = "Home"
 url = "#"
@@ -26,6 +20,12 @@ weight = 3
 name = "Single Review Post"
 url = "/review-page-single/"
 parent = "Layouts"
+
+[[main]]
+weight = 3
+name = "Motherboards"
+url = "/motherboards/"
+parent = ""
 
 [[main]]
 weight = 3
