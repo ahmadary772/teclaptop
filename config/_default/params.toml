@@ -35,7 +35,7 @@ scrollcat = ""
 imgcat = ""
 
 [post_setting]
-featured_img = true
+featured_img = false
 
 [home_setting]
 footerText = "With built-in conversion tracking and easy integration with your favorite affiliate networks, this is the perfect solution for anyone looking to improve their affiliate marketing efforts."
