@@ -37,6 +37,12 @@ weight = 4
 name = "Buy this Theme"
 url = "https://www.facebook.com/hey.yousaf"
 
+[[main]]
+weight = 1
+name = "Best Picks"
+url = "/Best Picks/"
+parent = "Best Picks"
+
 [[footer]]
 weight = 1
 name = "Elements"
