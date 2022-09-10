@@ -22,7 +22,7 @@ url = "/review-page-single/"
 parent = "Layouts"
 
 [[main]]
-weight = 5
+weight = 3
 name = "Laptops "
 url = "/Laptops /"
 parent = "Laptops "
@@ -31,7 +31,7 @@ parent = "Laptops "
 weight = 3
 name = "Motherboards"
 url = "/motherboards/"
-parent = ""
+parent = "Motherboards"
 
 [[main]]
 weight = 3
