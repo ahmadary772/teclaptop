@@ -10,7 +10,8 @@ url: best-motherboard-z590
 date: 2022-09-09T07:07:27.450Z
 updateDate: 2022-09-09T07:07:27.503Z
 featured_Image: /uploads/asus-z590-line-up-1-.jpg
-categories: []
+categories:
+  - Motherboards
 product_table: false
 top3_table: true
 the_glance: true
