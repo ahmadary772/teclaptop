@@ -5,13 +5,13 @@ url = "#"
 
 [[main]]
 weight = 1
-name = "Affiliate Post"
-url = "/affiliate-post/"
-parent = "Layouts"
+name = "Best Pic"
+url = "/Best Pic/"
+parent = "Best Pic"
 
 [[main]]
 weight = 2
-name = "Normal Post"
+name = "Best Pic"
 url = "/the-senate-that-our-ability-to-use-the-force-has-diminished/"
 parent = "Layouts"
 
