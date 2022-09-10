@@ -9,19 +9,19 @@ name = "Knowledge Base"
 url = "/Knowledge Base/"
 
 [[main]]
-weight = 1
+weight = 2
 name = "Laptops "
 url = "/Laptops/"
 parent = "Best Pic"
 
 [[main]]
-weight = 2
+weight = 1
 name = "Motherboards"
 url = "/Motherboards/"
 parent = "Best Pic"
 
 [[main]]
-weight = 3
+weight = 4
 name = "Ram"
 url = "/Ram/"
 parent = "Best Pic"
