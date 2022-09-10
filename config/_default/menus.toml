@@ -9,40 +9,6 @@ name = "Best Pic"
 url = "/Best Pic/"
 parent = "Best Pic"
 
-[[main]]
-weight = 2
-name = "Best Pic"
-url = "/the-senate-that-our-ability-to-use-the-force-has-diminished/"
-parent = "Layouts"
-
-[[main]]
-weight = 3
-name = "Single Review Post"
-url = "/review-page-single/"
-parent = "Layouts"
-
-[[main]]
-weight = 4
-name = "Laptops "
-url = "/Laptops /"
-parent = "Laptops "
-
-[[main]]
-weight = 6
-name = "Motherboards"
-url = "/motherboards/"
-parent = "Motherboards"
-
-[[main]]
-weight = 3
-name = "Elements"
-url = "/elements/"
-
-[[main]]
-weight = 4
-name = "Buy this Theme"
-url = "https://www.facebook.com/hey.yousaf"
-
 [[footer]]
 weight = 1
 name = "Elements"
