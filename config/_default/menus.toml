@@ -22,6 +22,12 @@ url = "/review-page-single/"
 parent = "Layouts"
 
 [[main]]
+weight = 1
+name = "Best Picks"
+url = "/Best Picks/"
+parent = "Best Picks"
+
+[[main]]
 weight = 3
 name = "Motherboards"
 url = "/motherboards/"
@@ -36,12 +42,6 @@ url = "/elements/"
 weight = 4
 name = "Buy this Theme"
 url = "https://www.facebook.com/hey.yousaf"
-
-[[main]]
-weight = 1
-name = "Best Picks"
-url = "/Best Picks/"
-parent = "Best Picks"
 
 [[footer]]
 weight = 1
