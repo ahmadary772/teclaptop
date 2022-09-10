@@ -29,16 +29,13 @@ sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
 [[scroll_section]]
-scrollcat = "Laptops "
+scrollcat = ""
 
 [[img_section]]
-imgcat = "Laptops "
-
-[[img_section]]
-imgcat = "Motherboards"
+imgcat = ""
 
 [home_setting]
 footerText = "With built-in conversion tracking and easy integration with your favorite affiliate networks, this is the perfect solution for anyone looking to improve their affiliate marketing efforts."
 headerText = "We are supported by our audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 blogSection = true
-headerStyle = "Style 2"
+headerStyle = "Style 1"
