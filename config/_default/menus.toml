@@ -22,10 +22,10 @@ url = "/review-page-single/"
 parent = "Layouts"
 
 [[main]]
-weight = 1
-name = "Best Picks"
-url = "/Best-Picks/"
-parent = "Best Picks"
+weight = 5
+name = "Laptops "
+url = "/Laptops /"
+parent = "Laptops "
 
 [[main]]
 weight = 3
