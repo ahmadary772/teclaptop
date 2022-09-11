@@ -1,7 +1,7 @@
 ---
 title: Best Motherboard Z590 in 2022
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: Best Motherboard Z590 In 2022
 meta_Description: "\"Looking for a Z590 motherboard? Here's our pick of the 5
@@ -9,7 +9,7 @@ meta_Description: "\"Looking for a Z590 motherboard? Here's our pick of the 5
 url: best-motherboard-z590
 date: 2022-09-09T07:07:27.450Z
 updateDate: 2022-09-09T07:07:27.503Z
-featured_Image: /uploads/asus-z590-line-up-1-.jpg
+featured_Image: null
 categories:
   - Motherboards
 product_table: false
