@@ -17,7 +17,7 @@ parent = "Best Pics"
 [[main]]
 weight = 1
 name = "Motherboards"
-url = "/https://techlaptop.xyz/motherboards/"
+url = "https://techlaptop.xyz/motherboards/"
 parent = "Best Pics"
 
 [[main]]
