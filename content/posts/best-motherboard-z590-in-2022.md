@@ -12,9 +12,9 @@ updateDate: 2022-09-09T07:07:27.503Z
 featured_Image: /uploads/best-motherboard-z590.jpg
 categories:
   - Motherboards
-product_table: false
+product_table: true
 top3_table: true
-the_glance: true
+the_glance: false
 paragraphs:
   - paragraph: >-
       techlaptop, are you researching your next config, or are you already
