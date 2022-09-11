@@ -54,8 +54,8 @@ the_products:
     pros:
       - pro: Its connectivity (2.5 Gb Ethernet, Thunderbolt 4, etc.)
       - pro: Beautiful aesthetic; the finishes and the ROG RGB logo
-      - pro: Good manual overclocking possibilities
       - pro: Smart cooling
+      - pro: Good manual overclocking possibilities
     cons:
       - con: The high price
       - con: Lack of backplate
