@@ -9,7 +9,7 @@ meta_Description: "\"Looking for a Z590 motherboard? Here's our pick of the 5
 url: best-motherboard-z590
 date: 2022-09-09T07:07:27.450Z
 updateDate: 2022-09-09T07:07:27.503Z
-featured_Image: null
+featured_Image: /uploads/best-motherboard-z590.jpg
 categories:
   - Motherboards
 product_table: false
