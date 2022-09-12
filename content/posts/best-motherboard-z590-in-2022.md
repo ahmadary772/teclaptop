@@ -34,11 +34,11 @@ the_products:
     image: /uploads/rog-maximus-xiii-hero-z590.jpg
     amzlink: https://techlaptop.xyz/
     specifications:
-      - specification: "Chipset: Z590 | Memory: 4x DIMM, 128GB, DDR4-5333 | PCIe port: 2
-          x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0 x16 (max. x4) |
-          Video Output: 2x HDMI 2.0 and 2x Thunderbolt 4 | USB ports: 10x in, 9x
-          internal | Networks: 2x 2.5GbE Ethernet, 1x Wi-Fi 6E | Storage: 4x
-          M.2, 6x SATA"
+      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5333 **\\|
+          PCIe port:** 2 x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0
+          x16 (max. x4) | **Video Output:** 2x HDMI 2.0 and 2x Thunderbolt 4 |
+          **USB ports:** 10x in, 9x internal | **Networks:** 2x 2.5GbE Ethernet,
+          1x Wi-Fi 6E **\\| Storage:** 4x M.2, 6x SATA"
     paragraphs:
       - paragraph: >-
           This motherboard is in our favor for many reasons.
@@ -62,13 +62,15 @@ the_products:
     cons:
       - con: The high price
       - con: Lack of backplate
+    morebtns: []
   - name: ASUS Z590 TUF Gaming Plus Wifi
     specifications:
-      - specification: "Chipset: Z590 | Memory: 4x DIMM, 128GB, DDR4-5133 | PCIe port: 1
-          x PCIe 4.0 + 1 x PCIe 3.0 (x16) + 2 x PCIe 3.0 (1x) | Video Output: 1x
-          HDMI 2.0 | USB Ports: 2 X USB 2.0 + 2 X USB 3.0+ 2 X USB 3.1 |
-          Networks: 2x 2.5GbE Ethernet, 1x Wi-Fi 6 AX | Storage: 2 X M.2 – PCI-E
-          3.0 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E 4.0 4x"
+      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5133 |
+          **PCIe port**: 1 x PCIe 4.0 + 1 x PCIe 3.0 (x16) + 2 x PCIe 3.0 (1x) |
+          **Video Output:** 1x HDMI 2.0 | **USB Ports:** 2 X USB 2.0 + 2 X USB
+          3.0+ 2 X USB 3.1 | **Networks:** 2x 2.5GbE Ethernet, 1x Wi-Fi 6 AX |
+          **Storage:** 2 X M.2 – PCI-E 3.0 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E
+          4.0 4x"
     pros:
       - pro: Its quality construction
       - pro: The complete connection
@@ -96,12 +98,13 @@ the_products:
     image: /uploads/asus-z590-tuf-gaming-plus-wifi.jpg
   - name: Asus ROG Strix Z590-E
     specifications:
-      - specification: "Chipset: Z590 | Memory: 4x DIMMs, 128GB, DDR4-5000 | PCIe port:
-          2 x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0 x16 (max. x4)
-          | Video Output: 1 x DisplayPort 1.41 x HDMI™| USB Ports: 2 X USB 2.0 +
-          4 X USB 3.0 + 2 X USB 3.1 +1 X USB 3.1 Type C + 1 X USB 3.2 Type C|
-          Networks: 2x 2.5GbE Ethernet, 1x Wi-Fi 6E| Storage: 2 X M.2 – PCI-E
-          3.0 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E 4.0 4x"
+      - specification: "**Chipset:** Z590 **\\| Memory:** 4x DIMMs, 128GB, DDR4-5000 |
+          **PCIe port:** 2 x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0
+          x16 (max. x4) | **Video Output:** 1 x DisplayPort 1.41 x HDMI™| **USB
+          Ports:** 2 X USB 2.0 + 4 X USB 3.0 + 2 X USB 3.1 +1 X USB 3.1 Type C +
+          1 X USB 3.2 Type C| **Networks:** 2x 2.5GbE Ethernet, 1x Wi-Fi 6**E|
+          Storage:** 2 X M.2 – PCI-E 3.0 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E 4.0
+          4x"
     pros:
       - pro: Great build quality; beautiful finishes
       - pro: Interesting features (Wifi 6, 2.5 Gb Ethernet, etc.)
@@ -129,12 +132,12 @@ the_products:
     image: /uploads/asus-rog-strix-z590-e.jpg
   - name: Gigabyte Z590I Aorus Ultra
     specifications:
-      - specification: "Chipset: Z590 | Memory: 4x DIMM, 128GB, DDR4-3200 | PCIe port: 1
-          X PCI Express 4.0 16x | Video Output: 1 X DisplayPort +1 X HDMI | USB
-          Ports: 2 X USB 2.0 + 2 X USB 3.0 + 3 X USB 3.1 +1 X USB 3.2 Type C |
-          Networks: 1x 2.5GbE Ethernet, 1x Wi-Fi 6AX | Storage: 1 X M.2 – PCI-E
-          3.0 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E 4.0 4x + 4 X Serial ATA 6Gb/s
-          (SATA Revision 3)"
+      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-3200 **\\|
+          PCIe port:** 1 X PCI Express 4.0 16x | **Video Output:** 1 X
+          DisplayPort +1 X HDMI | **USB Ports:** 2 X USB 2.0 + 2 X USB 3.0 + 3 X
+          USB 3.1 +1 X USB 3.2 Type C | **Networks:** 1x 2.5GbE Ethernet, 1x
+          Wi-Fi 6AX **\\| Storage:** 1 X M.2 – PCI-E 3.0 4x + SATA 6 Gb/s + 1 X
+          M.2 – PCI-E 4.0 4x + 4 X Serial ATA 6Gb/s (SATA Revision 3)"
     pros:
       - pro: Good value for money
       - pro: Rather complete connectivity
@@ -154,13 +157,13 @@ the_products:
     image: /uploads/gigabyte-z590i-aorus-ultra.jpg
   - name: Asus Prime Z590-P
     specifications:
-      - specification: "Chipset: Z590 | Memory: 4x DIMM, 128GB, DDR4-5133 | PCIe port: 1
-          X PCI Express 4.0 16x +1 X PCI Express 4.0 16x (4x) + 2 X PCI Express
-          3.0 1x | Video Output: 1 x DisplayPort 1.4 + 1 x HDMITM 1.4 / 2.0| USB
-          Ports: 2 X USB 2.0 + 2 X USB 3.0 + 1 X USB 3.1 + 1 X USB 3.2 Type C |
-          Networks: 1x 2.5GbE Ethernet | Storage: 2 X M.2 – PCI-E 3.0 + 4x +
-          SATA 6 Gb/s + 1 X M.2 – PCI-E 4.0 4x + 4 X Serial ATA 6Gb/s (SATA
-          Revision 3)"
+      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5133 **\\|
+          PCIe port:** 1 X PCI Express 4.0 16x +1 X PCI Express 4.0 16x (4x) + 2
+          X PCI Express 3.0 1x **\\| Video Output:** 1 x DisplayPort 1.4 + 1 x
+          HDMITM 1.4 / 2.0**\\| USB Ports:** 2 X USB 2.0 + 2 X USB 3.0 + 1 X USB
+          3.1 + 1 X USB 3.2 Type C | **Networks:** 1x 2.5GbE Ethernet |
+          **Storage:** 2 X M.2 – PCI-E 3.0 + 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E
+          4.0 4x + 4 X Serial ATA 6Gb/s (SATA Revision 3)"
     pros:
       - pro: The quality of construction and finishes
       - pro: The good performance
