@@ -160,9 +160,9 @@ the_products:
       - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5133 **\\|
           PCIe port:** 1 X PCI Express 4.0 16x +1 X PCI Express 4.0 16x (4x) + 2
           X PCI Express 3.0 1x **\\| Video Output:** 1 x DisplayPort 1.4 + 1 x
-          HDMITM 1.4 / 2.0**\\| USB Ports:** 2 X USB 2.0 + 2 X USB 3.0 + 1 X USB
-          3.1 + 1 X USB 3.2 Type C | **Networks:** 1x 2.5GbE Ethernet |
-          **Storage:** 2 X M.2 – PCI-E 3.0 + 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E
+          HDMITM 1.4 / 2.0 **\\| USB Ports :** 2 X USB 2.0 + 2 X USB 3.0 + 1 X
+          USB 3.1 + 1 X USB 3.2 Type C | **Networks :** 1x 2.5GbE Ethernet |
+          **Storage :** 2 X M.2 – PCI-E 3.0 + 4x + SATA 6 Gb/s + 1 X M.2 – PCI-E
           4.0 4x + 4 X Serial ATA 6Gb/s (SATA Revision 3)"
     pros:
       - pro: The quality of construction and finishes
