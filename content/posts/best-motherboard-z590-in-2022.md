@@ -15,7 +15,7 @@ categories:
 product_table: true
 top3_table: true
 the_glance: true
-product_Summary: ""
+product_Summary: Rog Maximus XIII Hero Z590
 paragraphs:
   - paragraph: >-
       techlaptop, are you researching your next config, or are you already
