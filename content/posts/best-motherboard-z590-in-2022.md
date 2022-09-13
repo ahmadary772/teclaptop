@@ -30,16 +30,7 @@ paragraphs:
 
       I give you the first three references in detail, then do a quick update on the next two products.
 the_products:
-  - name: Rog Maximus XIII Hero Z590
-    image: /uploads/rog-maximus-xiii-hero-z590.jpg
-    amzlink: https://techlaptop.xyz/
-    specifications:
-      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5333 **\\|
-          PCIe port:** 2 x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0
-          x16 (max. x4) | **Video Output:** 2x HDMI 2.0 and 2x Thunderbolt 4 |
-          **USB ports:** 10x in, 9x internal | **Networks:** 2x 2.5GbE Ethernet,
-          1x Wi-Fi 6E **\\| Storage:** 4x M.2, 6x SATA"
-    paragraphs:
+  - paragraphs:
       - paragraph: >-
           This motherboard is in our favor for many reasons.
 
@@ -59,10 +50,20 @@ the_products:
       - pro: Beautiful aesthetic; the finishes and the ROG RGB logo
       - pro: Smart cooling
       - pro: Good manual overclocking possibilities
+    amzlink: https://techlaptop.xyz/
+    nameForTOC: Rog Maximus XIII Hero Z590
+    name: Rog Maximus XIII Hero Z590
+    morebtns: []
+    specifications:
+      - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5333 **\\|
+          PCIe port:** 2 x PCIe 4.0/3.0 x16 (x16, x8/x8, x8/x4) + 1 x PCIe 3.0
+          x16 (max. x4) | **Video Output:** 2x HDMI 2.0 and 2x Thunderbolt 4 |
+          **USB ports:** 10x in, 9x internal | **Networks:** 2x 2.5GbE Ethernet,
+          1x Wi-Fi 6E **\\| Storage:** 4x M.2, 6x SATA"
     cons:
       - con: The high price
       - con: Lack of backplate
-    morebtns: []
+    image: /uploads/rog-maximus-xiii-hero-z590.jpg
   - name: ASUS Z590 TUF Gaming Plus Wifi
     specifications:
       - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5133 |
@@ -96,6 +97,7 @@ the_products:
 
           In short, in my opinion, this Z590 motherboard is certainly not the best, but if you are looking for a solid and affordable option, this is the reference for you!
     image: /uploads/asus-z590-tuf-gaming-plus-wifi.jpg
+    nameForTOC: ASUS Z590 TUF Gaming Plus Wifi
   - name: Asus ROG Strix Z590-E
     specifications:
       - specification: "**Chipset:** Z590 **\\| Memory:** 4x DIMMs, 128GB, DDR4-5000 |
@@ -130,6 +132,7 @@ the_products:
 
           In the end, I find it to be a high-end Z590 motherboard, a good alternative to our top 1. It is however quite niche, due to its performance and high pricing.
     image: /uploads/asus-rog-strix-z590-e.jpg
+    nameForTOC: Asus ROG Strix Z590-E
   - name: Gigabyte Z590I Aorus Ultra
     specifications:
       - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-3200 **\\|
@@ -155,6 +158,7 @@ the_products:
           even if you are limited in your possibilities because of the
           temperature.
     image: /uploads/gigabyte-z590i-aorus-ultra.jpg
+    nameForTOC: Gigabyte Z590I Aorus Ultra
   - name: Asus Prime Z590-P
     specifications:
       - specification: "**Chipset:** Z590 | **Memory:** 4x DIMM, 128GB, DDR4-5133 **\\|
@@ -186,6 +190,7 @@ the_products:
 
           A Z590 motherboard that goes to the essentials, at an affordable price in my opinion!
     image: /uploads/asus-prime-z590-p.jpg
+    nameForTOC: Asus Prime Z590-P
 ---
 ## Why choose a Z590 motherboard rather than Z490?
 
