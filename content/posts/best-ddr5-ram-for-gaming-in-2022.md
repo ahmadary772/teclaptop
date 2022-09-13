@@ -86,6 +86,7 @@ the_products:
 
           Note that there is a relatively similar model from the same brand, the Kingston Fury Beast – 1 x 16 GB – DDR5 4800 MHz – CL38. For around $5 less, you'll get the same capabilities with a slightly lower frequency but better latency. In our opinion, this choice will ultimately be less relevant in terms of performance and the slight saving that can be made is anecdotal. Between 185€ and 190€ approximately, it is better to opt for a better frequency.
     image: /uploads/ddr5-5200-mhz.jpg
+    nameForTOC: "Kingston Fury Beast DDR5 5200 MHz "
   - name: G.Skill Ripjaws S5 White DDR5 5200 MHz
     image: /uploads/g.skill-ripjaws-s5-white.jpg
     specifications:
@@ -112,6 +113,7 @@ the_products:
 
 
           This therefore makes it possible to take advantage of an always “affordable” price to be able to anticipate the future much more serenely. Provided, of course, that you can invest today!
+    nameForTOC: G.Skill Ripjaws S5 White DDR5 5200 MHz
   - name: Corsair Dominator Platinum DDR5 32 Go
     image: /uploads/corsair-dominator-platinum-ddr5-32-go.jpg
     specifications:
@@ -137,6 +139,7 @@ the_products:
 
 
           But it is at the level of the price that the shoe pinches. The design is relatively expensive. This kit is currently available for around €445.
+    nameForTOC: Corsair Dominator Platinum DDR5 32 Go
   - name: Kingston ValueRAM 16 Go DDR5 4800 MHz
     image: /uploads/kingston-valueram-16-go-ddr5-4800-mhz.jpg
     specifications:
@@ -164,6 +167,7 @@ the_products:
 
 
           Let's say it clearly. In our opinion, this choice will not necessarily be very wise. If your budget is really limited, it may be better to wait for the prices to drop. Normally, this shouldn't take too long despite the current situation. But if you are particularly in a hurry and your budget is close to 10€… Well, why not. You will already be able to take advantage of the capabilities of DDR5. This is the main !
+    nameForTOC: Kingston ValueRAM 16 Go DDR5 4800 MHz
 ---
 ## How to choose your RAM: a short buying guide
 
