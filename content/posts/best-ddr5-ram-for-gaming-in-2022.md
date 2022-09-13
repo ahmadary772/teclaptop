@@ -58,6 +58,7 @@ the_products:
 
           Unfortunately, you have to pay a high price to take advantage of all these advantages. The kit is currently available around 510€.
     image: /uploads/g.skill-trident-z5-rgb-silver.jpg
+    nameForTOC: G.Skill Trident Z5 RGB Silver
   - name: "Kingston Fury Beast DDR5 5200 MHz "
     specifications:
       - specification: |-
