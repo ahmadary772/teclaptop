@@ -103,11 +103,11 @@ the_products:
       - paragraph: >-
           Now let's move on to a model to consider if you want to achieve a good
           compromise between quality and price. For a good value for money, we
-          have selected the G.Skill Ripjaws S5 White kit – 2 x 16 GB (32 GB) –
-          DDR5 5200 MHz – CL40.
+          have selected the **G.Skill Ripjaws S5 White kit – 2 x 16 GB (32 GB) –
+          DDR5 5200 MHz – CL40.**
 
 
-          Available for around €380, it allows you to obtain 32 GB (2X16) with a good frequency of 5200 Mhz and a correct latency time of 40. In short, for only twice the price of the cheapest bar in our selection , we have twice as much capacity with the same frequencies and latency.
+          Available for around €380, it allows you to obtain **32 GB (2X16) with a good frequency of 5200 Mhz** and a correct **latency time of 40**. In short, for only twice the price of the cheapest bar in our selection , we have twice as much capacity with the same frequencies and latency.
 
 
           This therefore makes it possible to take advantage of an always “affordable” price to be able to anticipate the future much more serenely. Provided, of course, that you can invest today!
