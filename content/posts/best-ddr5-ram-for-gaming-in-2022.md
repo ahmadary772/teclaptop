@@ -1,7 +1,7 @@
 ---
 title: Best DDR5 RAM for gaming in 2022
 type: posts
-draft: false
+draft: true
 trending: false
 seo_title: Best DDR5 RAM for gaming in 2022
 meta_Description: We've tested the top gaming memory on offer to find out what
