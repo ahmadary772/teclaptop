@@ -1,7 +1,7 @@
 ---
 title: Best DDR5 RAM for gaming in 2022
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: Best DDR5 RAM for gaming in 2022
 meta_Description: We've tested the top gaming memory on offer to find out what
@@ -9,7 +9,7 @@ meta_Description: We've tested the top gaming memory on offer to find out what
 url: best-ddr5-ram-for-gaming
 date: 2022-09-13T12:45:21.296Z
 updateDate: 2022-09-13T12:45:21.372Z
-featured_Image: /uploads/g.skill-trident-z5-rgb-silver.jpg
+featured_Image: /uploads/best-ddr5-ram-for-gaming-in-2022.jpg
 categories:
   - Ram
 product_table: true
@@ -35,10 +35,10 @@ the_products:
   - name: G.Skill Trident Z5 RGB Silver
     specifications:
       - specification: |-
-          Capacity: 32 GB (2X16)
-          Frequency: 6000MHz
-          CAS Latency: CL36
-          RGB: Yes
+          * **Capacity:** 32 GB (2X16)
+          * **Frequency**: 6000MHz
+          * **CAS Latency:** CL36
+          * **RGB**: Yes
     pros:
       - pro: Capabilities at the top
       - pro: The successful RGB design
@@ -46,17 +46,123 @@ the_products:
       - con: The price
     paragraphs:
       - paragraph: >-
-          We start this selection with a real monster, the G.Skill Trident Z5
-          RGB Silver kit – 2 x 16 GB (32 GB) – DDR5 6000 MHz – CL40.
+          We start this selection with a real monster, the **G.Skill Trident Z5
+          RGB Silver kit** – **2 x 16 GB** **(32 GB) – DDR5 6000 MHz – CL40**.
 
 
-          In terms of technical characteristics, we can already see that it will satisfy the most demanding. The 32 GB (2X16) with a beautiful frequency of 6000 Mhz and a fairly exceptional CL at 36 in DDR5 ensure us of foolproof liveliness, whether in game or in application.
+          In terms of technical characteristics, we can already see that it will satisfy the most demanding. The **32 GB (2X16) with a beautiful frequency of 6000 Mhz** and a fairly exceptional CL at 36 in DDR5 ensure us of foolproof liveliness, whether in game or in application.
 
 
           On the design side, RGB lovers will be served, with a fairly elegant light touch at the top of two silver bars of the most beautiful effect.
 
 
           Unfortunately, you have to pay a high price to take advantage of all these advantages. The kit is currently available around 510€.
+    image: /uploads/g.skill-trident-z5-rgb-silver.jpg
+  - name: "Kingston Fury Beast DDR5 5200 MHz "
+    specifications:
+      - specification: |-
+          * **Capacity:** 16 GB
+          * **Frequency**: 5200MHz
+          * **CAS Latency:** CL40
+          * **RGB:** No
+    pros:
+      - pro: The price
+    cons:
+      - con: A low frequency
+      - con: A non-existent design
+    paragraphs:
+      - paragraph: >-
+          We continue our selection with a good, relatively affordable DDR5
+          model, the **Kingston Fury Beast – 1 x 16 GB – DDR5 5200 MHz – CL40.**
+          Here, you will therefore only have a single 16 GB module, which is
+          still sufficient in a lot of cases, in particular for a gaming config.
+          It's perfect for setting foot in DDR5 without breaking the bank
+          despite the situation.
+
+
+          The concessions to be made are not too great. The **frequency of 5200 Mhz** is already well above what can be had with DDR4… The **CL40** latency is in the average of current DDR5. Only the slightly sad design will leave you with an aftertaste of frustration.
+
+
+          Note that there is a relatively similar model from the same brand, the Kingston Fury Beast – 1 x 16 GB – DDR5 4800 MHz – CL38. For around $5 less, you'll get the same capabilities with a slightly lower frequency but better latency. In our opinion, this choice will ultimately be less relevant in terms of performance and the slight saving that can be made is anecdotal. Between 185€ and 190€ approximately, it is better to opt for a better frequency.
+    image: /uploads/ddr5-5200-mhz.jpg
+  - name: G.Skill Ripjaws S5 White DDR5 5200 MHz
+    image: /uploads/g.skill-ripjaws-s5-white.jpg
+    specifications:
+      - specification: |-
+          * **Capacity:** 32 GB (2X16)
+          * **Frequency**: 5200MHz
+          * **CAS Latency**: CL40
+          * **RGB:** No
+    pros:
+      - pro: Excellent value
+      - pro: Good capacity
+      - pro: Nice design
+    cons:
+      - con: A bit high latency
+    paragraphs:
+      - paragraph: >-
+          Now let's move on to a model to consider if you want to achieve a good
+          compromise between quality and price. For a good value for money, we
+          have selected the G.Skill Ripjaws S5 White kit – 2 x 16 GB (32 GB) –
+          DDR5 5200 MHz – CL40.
+
+
+          Available for around €380, it allows you to obtain 32 GB (2X16) with a good frequency of 5200 Mhz and a correct latency time of 40. In short, for only twice the price of the cheapest bar in our selection , we have twice as much capacity with the same frequencies and latency.
+
+
+          This therefore makes it possible to take advantage of an always “affordable” price to be able to anticipate the future much more serenely. Provided, of course, that you can invest today!
+  - name: Corsair Dominator Platinum DDR5 32 Go
+    image: /uploads/corsair-dominator-platinum-ddr5-32-go.jpg
+    specifications:
+      - specification: |-
+          * **Capacity:** 32 GB (2X16)
+          * **Frequency:** 5200MHz
+          * **CAS Latency:** CL38
+          * **RGB:** Yes
+    pros:
+      - pro: Design
+      - pro: Capacity in the high average in DDR5
+    cons:
+      - con: the price
+    paragraphs:
+      - paragraph: >-
+          We continue our selection of **DDR5 kits** with the **Corsair
+          Dominator Platinum DDR5 32 GB (2 x 16 GB) 5200 MHz CL38**. Already
+          quite popular, it was above all noticed by a particularly worked
+          design, with a small RGB strip of the most beautiful effect.
+
+
+          As for his abilities, they are also appreciable. The **32 GB (2X16) with 5200 MHz frequency** and CL38 latency time will allow you to face the future serenely both in game and in applications. We even slightly exceed the kit with the best quality/price ratio of the selection with lower latency.
+
+
+          But it is at the level of the price that the shoe pinches. The design is relatively expensive. This kit is currently available for around €445.
+  - name: Kingston ValueRAM 16 Go DDR5 4800 MHz
+    image: /uploads/kingston-valueram-16-go-ddr5-4800-mhz.jpg
+    specifications:
+      - specification: |-
+          * **Capacity:** 16 GB
+          * **Frequency:** 4800MHz
+          * **CAS Latency:** CL40
+          * **RGB:** No
+    pros:
+      - pro: Unbeatable price today
+    cons:
+      - con: Many concessions to make to save a few tens of euros
+    paragraphs:
+      - paragraph: >-
+          Let's finish our selection with a “borderline” case. This is the
+          **Kingston ValueRAM 16 GB DDR5** **4800 MHz CL40**. Here, the main
+          argument is clearly the price. It is quite simply the cheapest DDR5
+          proposition currently on the market. It is available for around €178.
+
+
+          With it, you can therefore have DDR5 for a little more than 10€ less than our favorite inexpensive model, the **Kingston Fury Beast – 1 x 16 GB (16 GB) – DDR5 5200 MHz – CL40.**
+
+
+          To earn these €10, you will have to agree to have a lower frequency of 4800 MHz, and therefore to lose 400 MHz.
+
+
+          Let's say it clearly. In our opinion, this choice will not necessarily be very wise. If your budget is really limited, it may be better to wait for the prices to drop. Normally, this shouldn't take too long despite the current situation. But if you are particularly in a hurry and your budget is close to 10€… Well, why not. You will already be able to take advantage of the capabilities of DDR5. This is the main !
 ---
 ## How to choose your RAM: a short buying guide
 
