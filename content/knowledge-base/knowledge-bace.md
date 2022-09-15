@@ -1,10 +1,10 @@
 ---
-title: How Much RAM Do You Need for Gaming in 2022?
+title: How Much RAM Do You Need for Gaming in 2022
 type: knowledge-base
 draft: false
 trending: false
 trendname: ""
-seo_title: "How Much RAM Do You Need for Gaming in 2022?   "
+seo_title: How Much RAM Do You Need for Gaming in 2022
 meta_Description: So how much RAM do you actually need for gaming? Which
   frequency is the most optimal? Find the answer in our simple guide here.
 meta_Keywords: ""
