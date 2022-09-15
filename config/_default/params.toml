@@ -18,11 +18,11 @@ table = "salesmagtable-20"
 review = "salesmagreview-20"
 
 [open_graph]
-meta_Description = "<meta name=\"google-site-verification\" content=\"uq-L2CRVYOwtVQeHBHSqfr7TCfgJUKbnHCHe028CuTg\" />"
+meta_Description = ""
 image = ""
 
 [verifications]
-googleSiteVerify = "<meta name=\"google-site-verification\" content=\"uq-L2CRVYOwtVQeHBHSqfr7TCfgJUKbnHCHe028CuTg\" />"
+googleSiteVerify = "\" content=\"uq-L2CRVYOwtVQeHBHSqfr7TCfgJUKbnHCHe028CuTg\" />"
 
 [social_accounts]
 sitefbAccount = "https://facebook.com/"
