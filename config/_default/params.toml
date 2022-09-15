@@ -18,7 +18,7 @@ table = "salesmagtable-20"
 review = "salesmagreview-20"
 
 [open_graph]
-meta_Description = "If you're looking to create a professional website that will help you increase your affiliate sales, look no further than this Netlify theme."
+meta_Description = "<meta name=\"google-site-verification\" content=\"uq-L2CRVYOwtVQeHBHSqfr7TCfgJUKbnHCHe028CuTg\" />"
 image = ""
 
 [verifications]
