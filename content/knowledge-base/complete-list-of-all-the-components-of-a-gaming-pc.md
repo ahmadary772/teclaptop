@@ -33,8 +33,6 @@ So let's start with the components that you absolutely must have in your machine
 
 ![ Motherboard](/uploads/download.jpg)
 
-
-
 The motherboard is the component on which all the other components of the computer will be attached. This is what will make the connection between the CPU, RAM, graphics card and storage.
 
 The choice of a motherboard depends mainly on the type of processor you want to have with your PC.
@@ -89,9 +87,9 @@ In general for gaming we recommend having between 8GB, 16GB or 32GB of RAM.
 
 DDR4 RAM is the fastest RAM currently. But this one comes in different frequencies: 2133 MHz, 2666 MHz, 3000 MHz etc. The higher the frequency and the faster it is, the higher the performance.
 
-## 4. Graphic card 
+## 4. Graphic card
 
-![Graphic card]()
+![Graphic card](/uploads/graphic-card.jpg)
 
 The graphics card (or GPU) has the function of managing the display of elements on your screen. That said, the graphics card has other functions which are essential.
 
@@ -119,9 +117,9 @@ At Intel, the majority of fixed PC processors have a graphics part.
 
 At AMD this is less often the case, but they also exist.
 
-##  5. Storage (SSD/HDD) 
+## 5. Storage (SSD/HDD)
 
-![Storage (SSD/HDD)]()
+![Storage (SSD/HDD)](/uploads/storage.jpg)
 
 If the RAM is a short term storage, the SSD/HDD is the long term storage of the PC. Unlike RAM, data is not lost when the computer shuts down.
 
@@ -146,9 +144,7 @@ Finally know that there are two types of SSD, SATA and NVMe if you want to know 
 
 ## 6. Power-supply
 
-![ Power-supply]()
-
-
+![ Power-supply](/uploads/power-supply.jpg)
 
 Your PC needs to be supplied with electricity to function. The problem is that it is necessary to transform the alternating current from the electrical outlet into current usable by the components of the computer.
 
@@ -160,7 +156,7 @@ Your power supply will therefore be chosen according to what your components con
 
 ## 7. Case
 
-![Case]()
+![Case](/uploads/case.jpg)
 
 It is possible to have a PC without a case to speak of, but it is not practical to leave the components with the electronic circuit in the open air without something to protect them.
 
@@ -170,7 +166,7 @@ The choice of case will mainly depend on the size of the components you put in i
 
 ## 8. Cooling
 
-![ Cooling]()
+![ Cooling](/uploads/cooling.jpg)
 
 If your graphics card is equipped with dedicated cooling, this is not necessarily the case for the CPU. Depending on the processors, the manufacturer (Intel or AMD) may or may not include a cooler with the processor.
 
