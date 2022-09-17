@@ -1,7 +1,7 @@
 ---
 title: Update Your Graphics Card [Simple Tutorial]
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: Update Your Graphics Card [Simple Tutorial]
 meta_Description: I'll show you the best ways to get up-to-date graphics card drivers.
