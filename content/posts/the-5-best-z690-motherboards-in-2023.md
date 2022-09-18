@@ -4,7 +4,7 @@ type: posts
 draft: false
 trending: true
 trendname: Best Z690 Motherboards
-seo_title: The 8 Best Z690 Motherboards In 2022
+seo_title: The 8 Best Z690 Motherboards In 2023
 meta_Description: Looking for the best Z690 motherboard in 2022? Look no
   further, we find the best Z690 motherboard for your new Intel 12th gen CPU"
 url: best-z690-motherboard
@@ -49,7 +49,8 @@ the_products:
           **USB ports:** 6x rear I / O, 2x internal
           **Network:** 1x LAN 2.5 GbE, 1x Wi-Fi 6E
           **Memory:** 1x M.2, 4x SATA "]
-    cons: []
+    cons:
+      - con: No
     image: /uploads/asus-prime-z690-p.jpg
   - name: ASUS TUF Gaming Z690-Plus
     nameForTOC: ASUS TUF Gaming Z690-Plus
