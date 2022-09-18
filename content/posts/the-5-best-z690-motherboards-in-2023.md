@@ -2,7 +2,7 @@
 title: The 8 Best Z690 Motherboards In 2023
 type: posts
 draft: false
-trending: false
+trending: true
 trendname: Best Z690 Motherboards
 seo_title: The 8 Best Z690 Motherboards In 2022
 meta_Description: Looking for the best Z690 motherboard in 2022? Look no
@@ -41,8 +41,6 @@ the_products:
     morebtns:
       - btnName: VIEW ON AMAZON
         btnLink: https://techlaptop.xyz/
-      - btnName: VIEW ON AMAZON
-        btnLink: https://techlaptop.xyz/
     specifications:
       - specification: |-
           **Socket:** LGA 1700 - ATX
@@ -79,6 +77,7 @@ the_products:
 
           The I / O is not crowded as there are only eight USB sockets available. Fortunately, USB 3.2 Gen1 is the older variant, with two built-in USB-C ports. DisplayPort and HDMI will help gamers who don't mind spending time on CSa: GO using Xe graphics in hopes of overcoming the GPU shortage. There's nothing on I / O to help with overclocking, but you can choose between WiFi6 and 2.5 Gbps Ethernet with LAN Guard.
     image: /uploads/asus-tuf-gaming-z690-plus.jpg
+    morebtns: []
   - name: "MSI Pro Z690-A Wi-Fi "
     nameForTOC: "MSI Pro Z690-A Wi-Fi "
     specifications:
