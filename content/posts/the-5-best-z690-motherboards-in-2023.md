@@ -40,9 +40,7 @@ the_products:
     amzlink: https://techlaptop.xyz/
     nameForTOC: ASUS Prime Z690-P
     name: ASUS Prime Z690-P
-    morebtns:
-      - btnName: VIEW ON AMAZON
-        btnLink: https://techlaptop.xyz/
+    morebtns: []
     specifications:
       - specification: |-
           **Socket:** LGA 1700 - ATX
