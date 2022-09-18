@@ -34,7 +34,9 @@ the_products:
 
 
           With PCIe 5.0, **DDR5** and Thunderbolt 4 support, we have the characteristics of a quality card that can handle any workload. It has Wi-Fi6 and 2.5 Gb Ethernet. Designed to be efficient, with 14 + 1 power phases, 8 + 4 pin ProCool connectors, alloy coils and durable capacitors to handle stable and safe power delivery, giving enthusiasts everything they need with a limited budget.
-    pros: []
+    pros:
+      - pro: ATX, Socket 1700
+      - pro: 4 x SATA 6Gb/s ports
     amzlink: https://techlaptop.xyz/
     nameForTOC: ASUS Prime Z690-P
     name: ASUS Prime Z690-P
@@ -78,6 +80,15 @@ the_products:
           The I / O is not crowded as there are only eight USB sockets available. Fortunately, USB 3.2 Gen1 is the older variant, with two built-in USB-C ports. DisplayPort and HDMI will help gamers who don't mind spending time on CSa: GO using Xe graphics in hopes of overcoming the GPU shortage. There's nothing on I / O to help with overclocking, but you can choose between WiFi6 and 2.5 Gbps Ethernet with LAN Guard.
     image: /uploads/asus-tuf-gaming-z690-plus.jpg
     morebtns: []
+    pros:
+      - pro: Cheap at launch
+      - pro: 4x M.2 SSD Slots
+      - pro: Highest support in terms of overclocked DDR4 RAM speeds
+      - pro: 5-way Optimization System integrated within BIOS
+      - pro: 4x RGB Headers (3x Addressable Gen 2 & 1x Asus Aura Sync)
+    cons:
+      - con: Underwhelming Power Delivery System compared to ROG Z690 Motherboards
+      - con: Lack of support for DDR5 Memory
   - name: "MSI Pro Z690-A Wi-Fi "
     nameForTOC: "MSI Pro Z690-A Wi-Fi "
     specifications:
@@ -104,6 +115,13 @@ the_products:
 
           Rear I / O itself is good with a good selection of USB ports and a 2.5GbE LAN port along with WiFi functionality if that particular motherboard variant is chosen. In conclusion, the **MSI Pro Z690-A** is certainly one of the most value-oriented motherboards on the market and one that puts price-performance first.
     image: /uploads/msi-pro-z690-a-wi-fi.jpg
+    pros:
+      - pro: Relatively Affordable
+      - pro: Solid Connectivity
+      - pro: Great Storage Options
+    cons:
+      - con: Poor Design
+      - con: Mediocre VRM Design
   - name: ASUS ROG Strix Z690-A
     nameForTOC: ASUS ROG Strix Z690-A
     specifications:
@@ -128,6 +146,12 @@ the_products:
 
           PCIe Gen 5 support is standard on all **Z690** cards, so it also pops up here, along with support for DDR5 memory up to **5333 MHz**. There are four M.2 slots that support PCIe Gen 4 functionality. connectivity is managed by a 2.5 GbE LAN port and WiFi 6. Several high-speed USB ports are also present on the rear I / O with different speed characteristics. By pairing this motherboard with an i7 12700K or i5 12600K you will have a truly competitive gaming platform.
     image: /uploads/asus-rog-strix-z690-a.png
+    pros:
+      - pro: Decent Power Delivery System
+      - pro: Best Looking Z690 Motherboard
+      - pro: An Affordable Z690 Motherboard Option
+    cons:
+      - con: Not Suitable For Core i9 Overclocking
   - name: GIGABYTE Z690 AORUS Master
     nameForTOC: GIGABYTE Z690 AORUS Master
     specifications:
@@ -154,6 +178,13 @@ the_products:
 
           When it comes to features, we really have no reason to doubt the **AORUS Master Z690 motherboard**. We find support for DDR5 DIMM memory up to 6400 MHz. There are 11 USB ports on the I / O including two USB-C. The main feature, however, is the 10 GbE LAN port on the back. PCIe Gen 5 is also supported, and the card also has four M.2 drives for every storage need. In conclusion, the AORUS Master Z690 is one of the best premium motherboards for the Z690 chipset available right now.
     image: /uploads/gigabyte-z690-aorus-master.jpg
+    pros:
+      - pro: Z690 Motherboard With Unrivalled VRM Design
+      - pro: 10 GbE LAN
+      - pro: 20Gbps USB-C port
+      - pro: High-End Performance
+    cons:
+      - con: Quite Pricey
   - name: ASUS ROG Maximus Z690 Hero WiFi
     nameForTOC: ASUS ROG Maximus Z690 Hero WiFi
     specifications:
@@ -178,6 +209,13 @@ the_products:
 
           In terms of features, there isn't much to complain about with the **Maximus Z690 Hero.** The 2 Thunderbolt 4 ports on the rear I / O stand out immediately and are an excellent addition to the I / O of this card. The device also supports 5 M.2 devices at the same time, if you also install the included M.2 PCIe expansion card. Of course, PCIe Gen 5 is also supported, but this is limited to 16x PCIe slots. We also find a 2.5 GbE LAN port and WiFi 6E for connectivity. All in all, you really can't go wrong with the **Maximus Z690 Her**o for the all-new Alder Lake platform and that's why it's our pick for the best top-of-the-line Z690 motherboard.
     image: /uploads/asus-rog-maximus-z690-hero-wifi.jpg
+    pros:
+      - pro: Top Of The Line Z690 Motherboard
+      - pro: Excellent Connectivity Options
+      - pro: Excellent Power Delivery
+      - pro: 20Gbps USB-C port
+    cons:
+      - con: Very Expensive Z690 Motherboard
   - name: MSI MPG Z690 Carbon WiFi
     nameForTOC: MSI MPG Z690 Carbon WiFi
     specifications:
@@ -204,6 +242,13 @@ the_products:
 
           Overall, the **MSI MPG Z690 Carbon** exchanges hits with the premium AORUS Master and Maximus Z690 Hero motherboards, but is slightly cheaper while still offering similar VRM performance, so it's our preferred choice for high-end overclocking.
     image: /uploads/msi-mpg-z690-carbon-wifi.jpg
+    pros:
+      - pro: Great VRM For Overclocking on Z690
+      - pro: 5 M.2 Slots For Storage
+      - pro: Attractive Aesthetics
+      - pro: High-End Performance
+    cons:
+      - con: Not Affordable For Regular Gamers
   - name: ASUS ROG Strix Z690-I Gaming WiFi
     nameForTOC: ASUS ROG Strix Z690-I Gaming WiFi
     specifications:
@@ -229,4 +274,11 @@ the_products:
 
           Therefore, it can be said that the **ASUS ROG Strix Z690-I** is the absolute best mini-ITX Z690 motherboard on the market right now. The combination of: excellent power delivery system and a robust feature set, makes it an excellent choice for enthusiasts building a compact gaming PC on the Alder Lake platform.
     image: /uploads/asus-rog-strix-z690-i-gaming-wifi.jpg
+    pros:
+      - pro: Solid Power Delivery
+      - pro: Great For Compact Builds
+      - pro: Impressive Connectivity
+    cons:
+      - con: Only 2 DIMM Slots
+      - con: Expensive
 ---
