@@ -41,6 +41,8 @@ the_products:
     morebtns:
       - btnName: VIEW ON AMAZON
         btnLink: https://techlaptop.xyz/
+      - btnName: VIEW ON AMAZON
+        btnLink: https://techlaptop.xyz/
     specifications:
       - specification: |-
           **Socket:** LGA 1700 - ATX
