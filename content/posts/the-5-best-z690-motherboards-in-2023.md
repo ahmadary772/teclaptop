@@ -34,7 +34,8 @@ the_products:
 
 
           With PCIe 5.0, **DDR5** and Thunderbolt 4 support, we have the characteristics of a quality card that can handle any workload. It has Wi-Fi6 and 2.5 Gb Ethernet. Designed to be efficient, with 14 + 1 power phases, 8 + 4 pin ProCool connectors, alloy coils and durable capacitors to handle stable and safe power delivery, giving enthusiasts everything they need with a limited budget.
-    pros: []
+    pros:
+      - pro: as
     amzlink: https://techlaptop.xyz/
     nameForTOC: ASUS Prime Z690-P
     name: ASUS Prime Z690-P
@@ -49,7 +50,8 @@ the_products:
           **USB ports:** 6x rear I / O, 2x internal
           **Network:** 1x LAN 2.5 GbE, 1x Wi-Fi 6E
           **Memory:** 1x M.2, 4x SATA "]
-    cons: []
+    cons:
+      - con: er
     image: /uploads/asus-prime-z690-p.jpg
   - name: ASUS TUF Gaming Z690-Plus
     nameForTOC: ASUS TUF Gaming Z690-Plus
