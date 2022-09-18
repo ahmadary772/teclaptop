@@ -10,6 +10,7 @@ meta_Description: Looking for the best Z690 motherboard in 2022? Look no
 url: best-z690-motherboard
 date: 2022-09-17T07:47:40.473Z
 updateDate: 2022-09-17T07:47:40.528Z
+featured_Image: /uploads/best-z690-motherboards.jpg
 categories:
   - Motherboards
 product_table: true
@@ -25,7 +26,8 @@ paragraphs:
 the_products:
   - name: ASUS Prime Z690-P
     nameForTOC: ASUS Prime Z690-P
-    morebtns: []
+    morebtns:
+      - btnName: VIEW ON AMAZON
     specifications:
       - specification: |-
           **Socket:** LGA 1700 - ATX
