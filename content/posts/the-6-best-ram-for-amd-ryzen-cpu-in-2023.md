@@ -136,7 +136,7 @@ the_products:
 
 
           This is no coincidence, it must be said that it was partly designed to optimize overclocking.
-    image: /uploads/.-corsair-vengeance-lpx-black-ddr4-2-x-8-go-3200-mhz-cas-16.jpg
+    image: /uploads/.-corsair-vengeance-lpx-black-ddr4-2-x-8-go-3200.jpg
   - name: G.Skill Value 8 Go (2x 4 Go) DDR4 2666 MHz CL15
     nameForTOC: G.Skill Value 8 Go
     specifications:
