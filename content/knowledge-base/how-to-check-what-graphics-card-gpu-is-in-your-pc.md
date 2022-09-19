@@ -9,6 +9,7 @@ meta_Description: In this tutorial I will show you how to see the consumption of
 url: how-to-check-graphics-card-gpu-is-in-your-pc/
 date: 2022-09-19T10:44:14.145Z
 updateDate: 2022-09-19T10:44:14.238Z
+featured_Image: /uploads/rog_3080_10.jpg
 ---
 
 
