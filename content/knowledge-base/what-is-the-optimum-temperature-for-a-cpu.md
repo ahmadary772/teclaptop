@@ -1,7 +1,7 @@
 ---
 title: What Is The Optimum Temperature For A CPU?
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: What Is The Optimum Temperature For A CPU?
 meta_Description: "In terms of temperatures on the computer, there are two main
