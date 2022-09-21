@@ -67,6 +67,7 @@ the_products:
       - pro: Overheating can be managed easily.
     cons:
       - con: Light strips not included.
+    image: /uploads/gigabyte-b450m-ds3h.jpg
   - name: MSI B550M Pro-VDH
     nameForTOC: MSI B550M Pro-VDH
     paragraphs:
@@ -105,8 +106,9 @@ the_products:
       - pro: Supports 3rd Gen AMD Ryzen processors.
     cons:
       - con: Requires updating the Bios with a USB key for example.
-  - name: ASUS TUF GAMING B550M -
-    nameForTOC: ASUS TUF GAMING B550M -
+    image: /uploads/msi-–-b550m-pro-vdh.jpg
+  - name: ASUS TUF GAMING B550M PLUS
+    nameForTOC: ASUS TUF GAMING B550M PLUS
     paragraphs:
       - paragraph: >-
           Intended for 3rd generation AMD Ryzen processors, this **ASUS TUF
@@ -144,8 +146,9 @@ the_products:
       - pro: Supports 3rd Gen AMD Ryzen processors.
     cons:
       - con: Motherboard a bit flimsy.
-  - name: ASUS TUF GAMING B450M -
-    nameForTOC: ASUS TUF GAMING B450M -
+    image: /uploads/asus-tuf-gaming-b550m-plus-wi-fi-motherboard.jpg
+  - name: ASUS TUF GAMING B450M PLUS II
+    nameForTOC: ASUS TUF GAMING B450M PLUS II
     paragraphs:
       - paragraph: >-
           If you're on a tight budget while looking for a quality motherboard
@@ -187,6 +190,7 @@ the_products:
       - pro: It is affordable.
     cons:
       - con: Difficult to use due to lack of instructions.
+    image: /uploads/asus-tuf-gaming-b450m-plus-ii.jpg
   - name: Gigabyte B560M Aorus Elite
     nameForTOC: Gigabyte B560M Aorus Elite
     paragraphs:
@@ -225,6 +229,7 @@ the_products:
       - pro: Affordable motherboard.
     cons:
       - con: A bit flimsy.
+    image: /uploads/gigabyte-–-b560m-aorus-elite.jpg
   - name: MSI B560M Pro-VDH Wi-Fi
     nameForTOC: MSI B560M Pro-VDH Wi-Fi
     paragraphs:
@@ -263,6 +268,7 @@ the_products:
       - pro: It has all the necessary connectors.
     cons:
       - con: Not equipped with LED lighting.
+    image: /uploads/msi-b560m-pro-vdh-wifi-motherboard.jpg
   - name: ASUS PRIME H510M-A
     nameForTOC: ASUS PRIME H510M-A
     paragraphs:
@@ -300,6 +306,7 @@ the_products:
       - pro: Embeds all the necessary ports and connectors.
     cons:
       - con: Only supports 64 GB of RAM.
+    image: /uploads/asus-–-prime-h510m-a.jpg
   - name: MSI MAG B660M BAZOOKA
     nameForTOC: MSI MAG B660M BAZOOKA
     paragraphs:
@@ -336,6 +343,7 @@ the_products:
       - pro: Allows a powerful and efficient gaming configuration.
     cons:
       - con: It is expensive.
+    image: /uploads/msi-–-mag-b660m-bazooka.jpg
 faqs:
   - question: How to get your hands on a micro ATX motherboard?
     answer: The micro ATX motherboard is an item of equipment available in hardware
