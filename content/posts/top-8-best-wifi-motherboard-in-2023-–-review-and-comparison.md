@@ -9,10 +9,11 @@ meta_Description: Are you looking for the Best Wifi Motherboard . Here we have 8
 url: motherboard-with-wifi
 date: 2022-09-20T11:59:26.110Z
 updateDate: 2022-09-20T11:59:26.166Z
+featured_Image: /uploads/untitled-design-3-.jpg
 categories:
   - Motherboards
-product_table: false
-top3_table: false
+product_table: true
+top3_table: true
 the_glance: false
 paragraphs:
   - paragraph: >-
