@@ -1,7 +1,7 @@
 ---
 title: The 8 Best Micro-ATX Motherboard in 2023 – Review and Comparison
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: The 8 Best Micro-ATX Motherboard in 2023
 meta_Description: '  Are you looking for the Best Micro-ATX Motherboard. Here we
@@ -11,8 +11,8 @@ date: 2022-09-21T08:03:13.935Z
 updateDate: 2022-09-21T08:03:14.009Z
 categories:
   - Motherboards
-product_table: false
-top3_table: false
+product_table: true
+top3_table: true
 the_glance: false
 paragraphs:
   - paragraph: Micro ATX motherboard is a type of motherboard having a dimension of
