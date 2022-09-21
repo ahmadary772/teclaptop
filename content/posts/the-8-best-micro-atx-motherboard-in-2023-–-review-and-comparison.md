@@ -172,13 +172,11 @@ the_products:
           ### Features
 
 
-          Cooling system with Fan Xpert 2+.
+          * Cooling system with Fan Xpert 2+.
 
+          * Equipped with TUF LANGuard.
 
-          Equipped with TUF LANGuard.
-
-
-          Possibility to use AURA Sync RGB lighting.
+          * Possibility to use AURA Sync RGB lighting.
     specifications:
       - specification: |-
           **Chipset:** AMD B450
