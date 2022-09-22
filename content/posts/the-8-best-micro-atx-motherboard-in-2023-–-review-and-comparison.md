@@ -9,6 +9,7 @@ meta_Description: '  Are you looking for the Best Micro-ATX Motherboard. Here we
 url: best-micro-atx-motherboards
 date: 2022-09-21T08:03:13.935Z
 updateDate: 2022-09-21T08:03:14.009Z
+featured_Image: /uploads/untitled-design-4-.jpg
 categories:
   - Motherboards
 product_table: true
