@@ -2,6 +2,7 @@ logo = "/uploads/logo.jpg"
 icon = "/uploads/fav.jpg"
 tagline = ""
 contacteMail = "yousafblogger@gmail.com"
+img_section = []
 
 [colors]
 mainColor = "#d63000"
@@ -33,9 +34,6 @@ siteYouTubeAccount = "https://youtube.com/"
 
 [[scroll_section]]
 scrollcat = ""
-
-[[img_section]]
-imgcat = "Motherboards"
 
 [post_setting]
 featured_img = false
