@@ -33,7 +33,7 @@ sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
 [[scroll_section]]
-scrollcat = ""
+scrollcat = "Motherboards"
 
 [post_setting]
 featured_img = false
