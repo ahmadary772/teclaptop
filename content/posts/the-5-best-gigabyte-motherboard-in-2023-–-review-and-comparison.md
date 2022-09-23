@@ -14,7 +14,8 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
-the_glance: false
+the_glance: true
+product_Summary: Gigabyte B450 Aorus Elite
 paragraphs:
   - paragraph: The motherboard is the heart of a computer. Indeed, it manages many
       components such as the internal hard drive, the network, the RAM, the USB
