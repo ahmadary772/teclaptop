@@ -6,6 +6,7 @@ trending: false
 seo_title: How to Upgrade CPU
 meta_Description: Upgrading a CPU is not very difficult, provided you have all
   the right information and tools at your disposal.
+url: how-to-upgrade-cpu
 date: 2022-09-23T14:02:53.560Z
 updateDate: 2022-09-23T14:02:53.612Z
 featured_Image: /uploads/how-to-upgrade-cpu.jpeg
