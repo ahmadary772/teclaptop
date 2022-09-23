@@ -9,6 +9,7 @@ meta_Description: Gigabyte motherboards have a special place in the hearts of
 url: best-gigabyte-motherboards
 date: 2022-09-22T14:42:47.377Z
 updateDate: 2022-09-22T14:42:47.434Z
+featured_Image: /uploads/untitled-design-6-.jpg
 categories:
   - Motherboards
 product_table: true
