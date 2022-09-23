@@ -35,6 +35,12 @@ siteYouTubeAccount = "https://youtube.com/"
 [[scroll_section]]
 scrollcat = "Motherboards"
 
+[[scroll_section]]
+scrollcat = "Ram"
+
+[[scroll_section]]
+scrollcat = "Laptops "
+
 [post_setting]
 featured_img = false
 
