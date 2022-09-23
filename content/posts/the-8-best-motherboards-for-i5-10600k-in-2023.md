@@ -36,16 +36,16 @@ paragraphs:
       ### Tips for buying a motherboard quickly
 
 
-      Multi GPU Support: Many modern 4K gaming aficionados need multi GPU support. Additionally, this assistance is useful for cryptocurrency mining. The AMD crossfire and SLI technologies are not supported by all motherboards, though. Therefore, before selecting a MOBO, be aware of your requirements and the GPU support you want.
+      **Multi GPU Support:** Many modern 4K gaming aficionados need multi GPU support. Additionally, this assistance is useful for cryptocurrency mining. The AMD crossfire and SLI technologies are not supported by all motherboards, though. Therefore, before selecting a MOBO, be aware of your requirements and the GPU support you want.
 
 
-      M.2 Slots: M.2 slots are fantastic for high-end AAA games, which typically take a long time to load. M.2 slots outperform SATA drives in terms of speed. The M.2 slot has the ability to increase data speed up to 4 GB/s, while SATA SSDs only offer 600Mbps capability. Therefore, these M.2 slots are a quicker and more practical way not just for quick game loading but also for the system's overall performance.
+      **M.2 Slots:** M.2 slots are fantastic for high-end AAA games, which typically take a long time to load. M.2 slots outperform SATA drives in terms of speed. The M.2 slot has the ability to increase data speed up to 4 GB/s, while SATA SSDs only offer 600Mbps capability. Therefore, these M.2 slots are a quicker and more practical way not just for quick game loading but also for the system's overall performance.
 
 
-      CPU Socket: The LGA 1200 socket is included with the **Intel Processor i5 10600K**. So bear that in mind when you want to purchase a motherboard that uses the LGA 1200 socket. Furthermore, a CPU like the i5 10600K works well with the motherboard's chipset Z490.
+      **CPU Socket:** The LGA 1200 socket is included with the **Intel Processor i5 10600K**. So bear that in mind when you want to purchase a motherboard that uses the LGA 1200 socket. Furthermore, a CPU like the i5 10600K works well with the motherboard's chipset Z490.
 
 
-      RAID Support: Make sure your system has RAID if you wish to access data from a hard disc at an incredibly rapid rate. A group of protocols known as RAID are used to organize several hard disks into an "array." Some motherboards already have this feature built in. Make sure the motherboard you pick for your i5-10600K has RAID support for quick processing.
+      **RAID Support:** Make sure your system has RAID if you wish to access data from a hard disc at an incredibly rapid rate. A group of protocols known as RAID are used to organize several hard disks into an "array." Some motherboards already have this feature built in. Make sure the motherboard you pick for your i5-10600K has RAID support for quick processing.
 the_products:
   - name: GIGABYTE Z490 AORUS Xtreme
     nameForTOC: GIGABYTE Z490 AORUS Xtreme
