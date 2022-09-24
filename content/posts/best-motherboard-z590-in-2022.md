@@ -1,10 +1,10 @@
 ---
-title: Best Motherboard Z590 in 2022
+title: Best Motherboard Z590 in 2023
 type: posts
 draft: false
 trending: false
 trendname: ""
-seo_title: Best Motherboard Z590 In 2022
+seo_title: Best Motherboard Z590 In 2023
 meta_Description: "\"Looking for a Z590 motherboard? Here's our pick of the 5
   best motherboards you can find.\""
 meta_Keywords: ""
