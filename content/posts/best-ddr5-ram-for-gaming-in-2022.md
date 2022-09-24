@@ -1,9 +1,9 @@
 ---
-title: Best DDR5 RAM for gaming in 2022
+title: Best DDR5 RAM for gaming in 2023
 type: posts
 draft: false
 trending: false
-seo_title: Best DDR5 RAM for gaming in 2022
+seo_title: Best DDR5 RAM for gaming in 2023
 meta_Description: We've tested the top gaming memory on offer to find out what
   the best DDR5 RAM is to pair with your new gaming PC.
 url: best-ddr5-ram-for-gaming
