@@ -58,6 +58,12 @@ the_products:
 
 
           As a result of its strong overclocking capabilities and many heatsinks and water pumps, the **ASUS ROG Strix X570-E Gaming** is the finest enthusiast motherboard for RTX 3080, as determined by our research.
+    pros:
+      - pro: Facilities for advanced connectivity
+      - pro: The audio feature of Supreme
+      - pro: Overclocking enough
+    cons:
+      - con: No onboard buttons or voltage monitoring points
   - name: ASUS TUF Gaming X570-Plus WIFI
     nameForTOC: ASUS TUF Gaming X570-Plus WIFI
     specifications:
@@ -82,6 +88,15 @@ the_products:
 
 
           The best flagship motherboard for RTX 3080 is ASUS TUF Gaming X570-Plus WIFI since it contains a wealth of cutting-edge and functional features that greatly benefit you. However, this inexpensive motherboard is simple to install and works with Aura Sync to control the RGB lighting.
+    pros:
+      - pro: Flexible RGB Header
+      - pro: Affordable
+      - pro: LAN and PCle slot TUF protection
+      - pro: Bluetooth 5.0
+    cons:
+      - con: There's no WIFI 6 accessible.
+      - con: Lack of Dual BIOS
+    image: ""
   - name: GIGABYTE X570 Aorus Elite
     nameForTOC: GIGABYTE X570 Aorus Elite
     specifications:
@@ -108,6 +123,12 @@ the_products:
 
 
           The finest premium motherboard for an RTX 3080 is the GIGABYTE X570 Aorus Elite, which has a variety of useful features including RGB Fusion 2.0 to give it the best possible aesthetic appearance.
+    pros:
+      - pro: M.2 thermal protection
+      - pro: VRM extended heatsink
+      - pro: Extremely quick performance
+    cons:
+      - con: No WiFi
   - name: ASUS ROG Strix B450-F
     nameForTOC: ASUS ROG Strix B450-F
     specifications:
@@ -133,6 +154,12 @@ the_products:
 
 
           The **ASUS ROG Strix B450-F** is the finest budget motherboard for **RTX 3080** overall because, despite its low price, it provides excellent performance, cooling, efficiency, and aesthetics.
+    pros:
+      - pro: Easy-to-use controls
+      - pro: Several ports
+      - pro: SupremFX for high-quality audio
+    cons:
+      - con: Missing M.2 heatsinks
   - name: ASUS ROG Maximus XII Formula Z490
     nameForTOC: ASUS ROG Maximus XII Formula Z490
     specifications:
@@ -157,6 +184,13 @@ the_products:
 
 
           The **ASUS ROG Maximus XII Formula Z490** is the ideal motherboard for the RTX 3080 because it is compatible with Intel processors from the 9th and 10th generations. The previous model, however, is incompatible with this device. It
+    pros:
+      - pro: great overclocking
+      - pro: Finest cooling apparatus
+      - pro: Most quick connectivity
+    cons:
+      - con: Supports Intel Gen 9 and 10 Processors
+      - con: Expensive
   - name: ASUS Prime Z490-A
     nameForTOC: ASUS Prime Z490-A
     specifications:
@@ -182,6 +216,12 @@ the_products:
 
 
           The finest **ATX motherboard for an RTX 3080** is the **ASUS Prime Z490-A**, which sacrifices neither attractive features nor affordability. As a result, you will see the motherboard, CPU, and RAM all operating in harmony. In addition, you don't worry about the temperature because of the sophisticated design and superior cooling system. Consequently, the device meets practically all of a user's expectations.
+    pros:
+      - pro: Stylish and beautiful design
+      - pro: Optimizing in five directions
+      - pro: A trustworthy motherboard
+    cons:
+      - con: No 6 WIFI
   - name: GIGABYTE B450M DS3H
     nameForTOC: GIGABYTE B450M DS3H
     specifications:
@@ -208,6 +248,13 @@ the_products:
 
 
           On this GIGABYTE ATX Mini MOBO, all the important information has already been covered. Do not judge this useful MOBO by its size; it is the greatest micro-atx motherboard for the RTX 3080. However, users are not very impressed by the material's quality.
+    pros:
+      - pro: It requires less capacity for rig setup.
+      - pro: 8.2.0 and 6.3.1 compatibility for USB
+      - pro: Excellent sound quality
+    cons:
+      - con: two fan headers only
+      - con: M.2 heatsink only
 faqs:
   - answer: A strong motherboard like the Gigabyte Aorus X570 Xtreme is necessary
       for the 3080's powerful graphics card to reach its full potential.
