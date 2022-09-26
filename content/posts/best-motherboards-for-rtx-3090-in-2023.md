@@ -98,8 +98,7 @@ the_products:
     cons:
       - con: Bluetooth and WIFI are not supported
       - con: Costly
-    morebtns:
-      - btnName: See on Amazone
+    morebtns: []
   - name: MSI MPG Z490 Gaming Edge
     nameForTOC: MSI MPG Z490 Gaming Edge
     specifications:
