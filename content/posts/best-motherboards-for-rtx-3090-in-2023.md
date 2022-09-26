@@ -1,7 +1,7 @@
 ---
 title: Best Motherboards for RTX 3090 in 2023
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: Best Motherboards for RTX 3090 in 2023
 meta_Description: Have you looked for the top motherboards for the RTX 3090?
@@ -9,6 +9,7 @@ meta_Description: Have you looked for the top motherboards for the RTX 3090?
 url: best-motherboard-for-rtx-3090
 date: 2022-09-26T07:55:44.396Z
 updateDate: 2022-09-26T07:55:44.454Z
+featured_Image: /uploads/untitled-design-8-.jpg
 categories:
   - Motherboards
 product_table: true
@@ -97,6 +98,8 @@ the_products:
     cons:
       - con: Bluetooth and WIFI are not supported
       - con: Costly
+    morebtns:
+      - btnName: See on Amazone
   - name: MSI MPG Z490 Gaming Edge
     nameForTOC: MSI MPG Z490 Gaming Edge
     specifications:
