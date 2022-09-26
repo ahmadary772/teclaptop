@@ -130,6 +130,7 @@ the_products:
       - pro: Extremely quick performance
     cons:
       - con: No WiFi
+    image: /uploads/gigabyte-x570-1-aorus-pro-wifi.jpg
   - name: ASUS ROG Strix B450-F
     nameForTOC: ASUS ROG Strix B450-F
     specifications:
