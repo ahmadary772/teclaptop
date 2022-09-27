@@ -22,8 +22,8 @@ parent = "Best Pics"
 
 [[main]]
 weight = 4
-name = "Ram"
-url = "/Ram/"
+name = "Rams"
+url = "/Rams/"
 parent = "Best Pics"
 
 [[footer]]
