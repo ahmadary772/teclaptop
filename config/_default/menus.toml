@@ -23,7 +23,7 @@ parent = "Best Pics"
 [[main]]
 weight = 4
 name = "Rams"
-url = "/Rams/"
+url = "https://techlaptop.xyz/rams/"
 parent = "Best Pics"
 
 [[footer]]
