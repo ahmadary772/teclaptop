@@ -11,7 +11,7 @@ date: 2022-09-19T15:24:32.201Z
 updateDate: 2022-09-19T15:24:32.274Z
 featured_Image: /uploads/best-ram-for-amd-ryzen-cpu.jpg
 categories:
-  - Ram
+  - Rams
 product_table: true
 top3_table: true
 the_glance: false
