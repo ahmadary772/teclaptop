@@ -15,7 +15,7 @@ ctaColorText = "#b5ff00"
 [amznTracking]
 global = "salesmag-20"
 topProducts = "salesmagtable-20"
-table = "salesmagtable-20"
+table = "https://www.amazon.com/dp//?tag=vire sure-20"
 review = "salesmagreview-20"
 
 [open_graph]
