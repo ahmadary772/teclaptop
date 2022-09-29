@@ -52,6 +52,8 @@ the_products:
 
           Finally, depending on the configuration chosen, you will have **16GB of Ram**, which is sufficient for the moment, and a **1TB NVMe SSD.** You can then upgrade your with more RAM and storage if needed.
     image: /uploads/asus-rog-zephyrus-g-14.jpg
+    morebtns:
+      - btnName: SEE ON AMAZON
   - name: MSI GL75 Leopard 10SER-036FR
     nameForTOC: "MSI GL75 Leopard "
     paragraphs:
