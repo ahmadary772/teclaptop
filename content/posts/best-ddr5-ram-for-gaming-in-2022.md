@@ -11,7 +11,7 @@ date: 2022-09-13T12:45:21.296Z
 updateDate: 2022-09-13T12:45:21.372Z
 featured_Image: /uploads/best-ddr5-ram-for-gaming-in-2022.jpg
 categories:
-  - Ram
+  - Rams
 product_table: true
 top3_table: true
 the_glance: false
