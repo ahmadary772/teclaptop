@@ -55,6 +55,7 @@ the_products:
     morebtns:
       - btnName: SEE ON AMAZON
         btnLink: https://techlaptop.xyz
+    amzlink: https://techlaptop.xyz
   - name: MSI GL75 Leopard 10SER-036FR
     nameForTOC: "MSI GL75 Leopard "
     paragraphs:
