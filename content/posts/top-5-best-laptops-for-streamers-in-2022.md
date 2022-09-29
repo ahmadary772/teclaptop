@@ -54,6 +54,7 @@ the_products:
     image: /uploads/asus-rog-zephyrus-g-14.jpg
     morebtns:
       - btnName: SEE ON AMAZON
+        btnLink: https://techlaptop.xyz
   - name: MSI GL75 Leopard 10SER-036FR
     nameForTOC: "MSI GL75 Leopard "
     paragraphs:
