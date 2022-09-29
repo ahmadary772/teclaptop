@@ -11,7 +11,7 @@ date: 2022-09-26T14:36:57.566Z
 updateDate: 2022-09-26T14:36:57.629Z
 featured_Image: /uploads/untitled-design-16-.jpg
 categories:
-  - Ram
+  - Rams
 product_table: true
 top3_table: true
 the_glance: true
