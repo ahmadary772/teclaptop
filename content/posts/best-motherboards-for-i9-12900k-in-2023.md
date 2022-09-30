@@ -2,7 +2,8 @@
 title: Best Motherboards for i9 12900K in 2023
 type: posts
 draft: false
-trending: false
+trending: true
+trendname: Best Motherboards for i9 12900K
 seo_title: Best Motherboards for i9 12900K
 meta_Description: The Intel i9 processor of the 12th generation is currently
   available. We have included the top motherboards for the i9 12900K because
