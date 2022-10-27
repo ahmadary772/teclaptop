@@ -69,7 +69,7 @@
         {{ end }}
         <p class="amazon-link">
             <a href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.global}}{{end}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">SEE ON AMAZON</a>
             <a href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/product-reviews/{{.amzlink}}/?tag={{site.Params.amznTracking.review}}{{end}}"
                 aria-label="{{.name}}" class="amazon-review-button" target="_blank"
                 rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
